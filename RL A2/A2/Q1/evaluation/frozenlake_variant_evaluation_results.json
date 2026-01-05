@@ -1,0 +1,19 @@
+
+{
+    "QLearning(0, 3)": {
+        "mean": 0.7, 
+        "std": 0.0
+    },
+    "MonteCarloOnPolicy(0, 3)": {
+        "mean": 0.7, 
+        "std": 0.0
+    },
+    "QLearning(0, 5)": {
+        "mean": 0.75, 
+        "std": 0.0
+    },
+    "MonteCarloOnPolicy(0, 5)": {
+        "mean": 0.75, 
+        "std": 0.0
+    }
+}

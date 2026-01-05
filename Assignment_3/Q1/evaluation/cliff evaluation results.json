@@ -1,0 +1,10 @@
+{
+    "linear": {
+        "mean": -50.0,
+        "std": 0.0
+    },
+    "nonlinear": {
+        "mean": -50.0,
+        "std": 0.0
+    }
+}
